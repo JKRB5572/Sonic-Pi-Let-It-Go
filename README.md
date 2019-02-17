@@ -6,4 +6,4 @@ Sonic Pi is avaliable from https://sonic-pi.net
 
 # Instructions for use
 
-Download all files and load each file in a sepereate buffer. The code will need to be complied before it will run. To do this run files b1 through to b9 and then b0 can be used as a play panel to run the code in the other buffers.
+Download all files and load each file in a sepereate buffer. The code will need to be 'complied' before it will run. To do this run files b1 through to b9 and then b0 can be used as a play panel to run the code in the other buffers.
